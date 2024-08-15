@@ -1,0 +1,68 @@
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\quartz jobs.exe
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\quartz jobs.deps.json
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\quartz jobs.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\quartz jobs.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\quartz jobs.pdb
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Quartz.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Quartz.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Quartz.Extensions.Hosting.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz jobs.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz jobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz jobs.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz jobs.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz jobs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz jobs.sourcelink.json
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz j.DF84AD3D.Up2Date
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz jobs.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\refint\quartz jobs.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz jobs.pdb
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\quartz jobs.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\obj\Debug\net8.0\ref\quartz jobs.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Lenovo\OneDrive\Bureau\.Net\quartz jobs\quartz jobs\bin\Debug\net8.0\Moq.dll
